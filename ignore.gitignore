@@ -1,0 +1,16 @@
+*.b#*
+*.s#*
+*.job
+*.pro
+*.dri
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.gpi
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.zip
